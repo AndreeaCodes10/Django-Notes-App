@@ -1,4 +1,4 @@
-specVersion: 0.1
+version: 0.1
 endpoints:
   - name: rest_api
     port: 8000
